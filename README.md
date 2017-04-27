@@ -1,0 +1,3 @@
+# pollster
+A basic polling app.
+Built on means stack...
